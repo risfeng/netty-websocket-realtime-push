@@ -1,0 +1,17 @@
+# 应用服务 WEB 访问端口
+server:
+  port: 8080
+  netty:
+    port: 9090
+spring:
+  application:
+    name: simple
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    password: redis
+    database: 0
+
+
+
+
