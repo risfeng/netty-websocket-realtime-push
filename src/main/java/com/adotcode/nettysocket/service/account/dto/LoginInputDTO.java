@@ -1,4 +1,4 @@
-package com.adotcode.nettysocket.account.dto;
+package com.adotcode.nettysocket.service.account.dto;
 
 import com.adotcode.nettysocket.common.utils.GsonUtils;
 import lombok.AllArgsConstructor;

@@ -1,9 +1,9 @@
 package com.adotcode.nettysocket.endpoint.account;
 
-import com.adotcode.nettysocket.account.AccountService;
-import com.adotcode.nettysocket.account.dto.LoginInputDTO;
-import com.adotcode.nettysocket.account.dto.LoginOutputDTO;
 import com.adotcode.nettysocket.common.result.HttpResult;
+import com.adotcode.nettysocket.service.account.AccountService;
+import com.adotcode.nettysocket.service.account.dto.LoginInputDTO;
+import com.adotcode.nettysocket.service.account.dto.LoginOutputDTO;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

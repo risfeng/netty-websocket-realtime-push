@@ -1,7 +1,7 @@
-package com.adotcode.nettysocket.account;
+package com.adotcode.nettysocket.service.account;
 
-import com.adotcode.nettysocket.account.dto.LoginInputDTO;
-import com.adotcode.nettysocket.account.dto.LoginOutputDTO;
+import com.adotcode.nettysocket.service.account.dto.LoginInputDTO;
+import com.adotcode.nettysocket.service.account.dto.LoginOutputDTO;
 
 /**
  * 账户管理服务接口
